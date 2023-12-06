@@ -12,12 +12,12 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=ben-counsell&repo=Final_Project&theme=omni"
     />
   </a>&nbsp;
-<!--   <img 
+  <img 
     align="middle" 
-    src="https://user-images.githubusercontent.com/101065163/180103619-cc98868e-8696-4528-9960-20a9ebd6ee64.gif" 
-    alt="MindSpace Gif" 
+    src="https://github.com/ben-counsell/ben-counsell/assets/97848152/10a0d05e-3222-4999-9b78-ef55566e6cee" 
+    alt="Game image" 
     width="340"
-  /> -->
+  />
 </div>
 <br/>
 <br/>
@@ -25,8 +25,8 @@
 <div align="center">
   <img 
     align="middle" 
-    src="https://github.com/ben-counsell/ben-counsell/assets/97848152/fa092af9-3a82-42db-a6c5-abc836eec130" 
-    alt="RecipeFlix gif" 
+    src="https://github.com/ben-counsell/ben-counsell/assets/97848152/dae94b06-7d25-426e-a90c-e4356c9bbeaa" 
+    alt="RecipeFlix image" 
     width="340"
   />&nbsp;
   <a href="https://github.com/ben-counsell/RecipeFlix">
