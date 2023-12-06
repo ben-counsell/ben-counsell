@@ -1,3 +1,5 @@
+<img src="https://github.com/ben-counsell/ben-counsell/assets/97848152/586b6b8f-c6c7-4a16-b62b-8b926fe7bb3e" alt="Banner image" width="100%" height="100%"/>
+
 ## Hi there 👋
 
 ### About me
