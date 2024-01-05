@@ -8,7 +8,7 @@
 
 ## Projects
 <div align="center">
-  <a href="https://github.com/Chlebab/Final_Project">
+  <a href="https://github.com/ben-counsell/Egg_Gobblin_Goblins">
     <img 
       align="middle" 
       src="https://github-readme-stats.vercel.app/api/pin/?username=ben-counsell&repo=Final_Project&theme=omni"
